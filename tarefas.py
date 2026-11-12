@@ -59,8 +59,6 @@ def avisoListaVazia():
 
 titulo("GERENCIADOR DE TAREFAS")
 
-print("Testando Git")
-
 while (True):
     separador()
     print()
